@@ -2,6 +2,10 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 This repository is a build for a Solana NFT minting webapp utilizing Metaplex's CandyMachine V3 and CandyGuards
 
+Prequisites:
+Solana SDK: https://solana.com/docs/intro/installation
+Rust/Cargo
+
 ## Getting Started
 
 First, run the development server:
